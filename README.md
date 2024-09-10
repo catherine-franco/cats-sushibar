@@ -2,9 +2,11 @@
 
 An interactive web application leveraging three.js to render an immersive 3D sushi bar, designed and modeled from scratch using Blender 2.0. 
 
+<img width="960" alt="cats-sushi-blendervis1" src="https://github.com/user-attachments/assets/6e974bab-ecd7-4383-a4d2-e2b380e89cc2">
+
 ## Overview
 
-This project is a 3D web application designed to deliver an immersive/interactive experience, showcasing the integration of advanced 3D graphics within web browsers. The application is built using three.js, a robust JavaScript library for rendering complex 3D environments. All 3D models and assets have been meticulously created using Blender 2.8, an open-source, industry-standard tool for 3D modeling and animation. Initially conceptualized in 2022 as a personal 3D portfolio, the scope has evolved to prioritize rapid deployment and extensibility.
+This project is a 3D web application designed to deliver an immersive/interactive experience, showcasing the integration of 3D graphics within web browsers. Cat's Sushi Bar harnesses three.js, a comprehensive JavaScript library designed for rendering 3D graphics within web browsers, and Blender 2.0, an industry-standard open-source 3D modeling and animation suite, used to create custom 3D assets for this project. CSB was initially conceptualized in 2022 as a personal 3D portfolio, the scope has evolved to prioritize rapid deployment and extensibility.
 
 ## Features
 - Real-time interactive 3D rendering.
@@ -23,6 +25,5 @@ This project is a 3D web application designed to deliver an immersive/interactiv
 ## Visuals
 Below are the most recent development snapshots showcasing the current progress:
 
-<img width="478" alt="cats-sushi-blendervis1" src="https://github.com/user-attachments/assets/6e974bab-ecd7-4383-a4d2-e2b380e89cc2">
-<img width="478" alt="cats-sushi-blendervis2" src="https://github.com/user-attachments/assets/471236ac-88ae-4b17-94c1-5e0fb4dcbce8">
 <img width="960" alt="cats-sushi-blendervis3" src="https://github.com/user-attachments/assets/a51023ef-62ff-4914-9334-127abcee3e4a">
+<img width="960" alt="cats-sushi-blendervis2" src="https://github.com/user-attachments/assets/471236ac-88ae-4b17-94c1-5e0fb4dcbce8">
